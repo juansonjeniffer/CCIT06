@@ -29,7 +29,7 @@ section{
 #about h2{
      font-size: 55px;
      font-weight: 900;
-     color: black;
+     color: red;
 
 }
 
@@ -53,5 +53,5 @@ section{
 #services h2{
     font-size: 55px;
     font-weight: 900;
-    color: black;
+    color: red;
 }
