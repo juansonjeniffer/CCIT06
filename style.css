@@ -1,7 +1,9 @@
 #banner {
     height: 90vh;
-    background-image: url(meow.jpg);
+    background:url(sunset.jpg);
     background-size: cover;
+    background-attachment: fixed ;
+    background-position: center;
 
 }
     
@@ -54,4 +56,24 @@ section{
     font-size: 55px;
     font-weight: 900;
     color: red;
+}
+
+#cta {
+    height: 70vh;
+    background: url(setting.jpg);
+    background-size: cover;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+    
+.testimonials img{
+    width: 75px;
+}
+.testimonials{
+    border: 2px solid rgb(57,149,57);
+    padding: 20px;
+    border-radius: 20px;
+    margin-top: 20px;
 }
